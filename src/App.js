@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import DATA from "./assets/data/va.json";
 import { useState } from "react";
